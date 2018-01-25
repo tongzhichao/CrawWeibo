@@ -2,3 +2,6 @@
 #sinaspider1:简单的爬取
 #sinaspider2:通过scrpy_redis框架爬取
 #sinaSpider3:通过scrpy_redis并且加入Bloomfilter方法种子去重校验
+
+
+#数据库存储的方式为mongodb
